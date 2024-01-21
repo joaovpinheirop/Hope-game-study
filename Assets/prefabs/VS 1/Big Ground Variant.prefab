@@ -13,6 +13,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Big Ground Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1039734538148722369, guid: ac2767a5acc84b04b91f8fe34d0fc1cb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039734538148722369, guid: ac2767a5acc84b04b91f8fe34d0fc1cb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.288
+      objectReference: {fileID: 0}
     - target: {fileID: 4656918042861544631, guid: ac2767a5acc84b04b91f8fe34d0fc1cb,
         type: 3}
       propertyPath: m_LocalScale.y

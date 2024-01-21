@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Trash
+  - Trunk
+  - Plants
+  - GroundToPlant
   layers:
   - Default
   - TransparentFX
