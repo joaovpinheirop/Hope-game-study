@@ -9,6 +9,9 @@ TagManager:
   - Trunk
   - Plants
   - GroundToPlant
+  - Shop
+  - GarbageResidue
+  - GameManager
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Terrain
   - 
   - 
   - 
